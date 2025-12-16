@@ -1,0 +1,5 @@
+{
+  "name": "InstaCheck AI",
+  "description": "An AI-powered automation tool to bulk check Instagram username availability and page status using Google Search grounding, with Excel export capabilities.",
+  "requestFramePermissions": []
+}
